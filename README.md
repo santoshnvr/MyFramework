@@ -17,11 +17,11 @@ Text field customization
       -> isSecure a bool to specify if we need a regular text field or a secured text. The default value is false.
       
 
-Sample implementation recording.
+Sample integration recording.
 
 
+https://drive.google.com/file/d/1-IP6lBPTnzN8ajiPqg7VtXM42OwW4j-k/view?usp=sharing
 
-https://user-images.githubusercontent.com/11731628/233132454-f133a7be-21f5-455c-bea9-47bc6c7935a2.mp4
 
 
 
